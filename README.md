@@ -1,3 +1,4 @@
+**PYTHON**
 Python is a high-level, interpreted programming language known for its simplicity and readability. Here are some key points about Python:
 
 Interpreted Language: Python is an interpreted language, which means that code written in Python is executed line by line by the Python interpreter. This makes it easy to test and debug code.
@@ -9,7 +10,7 @@ Cross-platform: Python is cross-platform, meaning that Python code can run on va
 Community and Support: Python has a large and active community of developers who contribute to its development, create libraries and frameworks, and provide support through forums, tutorials, and documentation.
 
 
-Getting started with Python is quite straightforward! Here's a step-by-step to begin:
+**Getting started with Python is quite straightforward! Here's a step-by-step to begin:**
 
 Install Python:
 First, download and install Python from the official website (https://www.python.org/downloads/). Make sure to select the appropriate version for your operating system (Windows, macOS, or Linux).
@@ -38,7 +39,7 @@ Engage with the Python community by joining forums (such as Stack Overflow), att
 Continue Learning:
 Python is a vast language with many features and capabilities. Continue learning new concepts, libraries (e.g., NumPy, pandas, Matplotlib), and advanced topics (e.g., object-oriented programming, decorators, generators) to enhance your skills.
 
-basic data types in Python:
+**basic data types in Python:**
 
 Integer (int):
 Represents whole numbers without any decimal point.
